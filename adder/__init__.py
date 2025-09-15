@@ -6,3 +6,6 @@ def add(x: np.int32, y: np.int32):
 
 def subract(x: np.int32, y: np.int32):
     return x - y
+
+def division(x: np.int32, y: np.int32):
+    return x / y
